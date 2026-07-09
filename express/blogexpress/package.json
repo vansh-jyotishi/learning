@@ -1,0 +1,12 @@
+{
+  "name": "blogexpress",
+  "version": "1.0.0",
+  "description": "this is a blog we created at our learning journey",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
